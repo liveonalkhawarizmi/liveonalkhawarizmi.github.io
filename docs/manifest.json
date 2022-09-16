@@ -3,13 +3,13 @@
     "file": "file/waves.1fb94697.svg",
     "src": "src/assets/images/waves.svg"
   },
-  "src/assets/images/home-banner.png": {
-    "file": "file/home-banner.7198e6c1.png",
-    "src": "src/assets/images/home-banner.png"
-  },
   "src/assets/images/footer-background.jpg": {
     "file": "file/footer-background.e0c6e1fb.jpg",
     "src": "src/assets/images/footer-background.jpg"
+  },
+  "src/assets/images/home-banner.png": {
+    "file": "file/home-banner.7198e6c1.png",
+    "src": "src/assets/images/home-banner.png"
   },
   "index.html": {
     "file": "file/index.a02a0b8d.js",
@@ -67,10 +67,6 @@
       "file/Index.6c80a9fb.css"
     ]
   },
-  "src/panel/pages/auth/Login.css": {
-    "file": "file/Login.5846c62d.css",
-    "src": "src/panel/pages/auth/Login.css"
-  },
   "src/panel/pages/auth/Register.css": {
     "file": "file/Register.df3ef6ff.css",
     "src": "src/panel/pages/auth/Register.css"
@@ -78,6 +74,10 @@
   "src/panel/pages/Index.css": {
     "file": "file/Index.6c80a9fb.css",
     "src": "src/panel/pages/Index.css"
+  },
+  "src/panel/pages/auth/Login.css": {
+    "file": "file/Login.5846c62d.css",
+    "src": "src/panel/pages/auth/Login.css"
   },
   "index.css": {
     "file": "file/index.aa6580df.css",
