@@ -12,7 +12,7 @@
     "src": "src/assets/images/home-banner.png"
   },
   "index.html": {
-    "file": "file/index.a02a0b8d.js",
+    "file": "file/index.325f6623.js",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
@@ -21,7 +21,7 @@
       "src/panel/pages/Index.vue"
     ],
     "css": [
-      "file/index.aa6580df.css"
+      "file/index.f38a4c7c.css"
     ],
     "assets": [
       "file/home-banner.7198e6c1.png",
@@ -29,7 +29,7 @@
     ]
   },
   "src/panel/pages/auth/Login.vue": {
-    "file": "file/Login.2b0a0aab.js",
+    "file": "file/Login.cf45ec36.js",
     "src": "src/panel/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -43,7 +43,7 @@
     ]
   },
   "src/panel/pages/auth/Register.vue": {
-    "file": "file/Register.e4723585.js",
+    "file": "file/Register.d133ae49.js",
     "src": "src/panel/pages/auth/Register.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -57,7 +57,7 @@
     ]
   },
   "src/panel/pages/Index.vue": {
-    "file": "file/Index.ea90be8a.js",
+    "file": "file/Index.a2bf3981.js",
     "src": "src/panel/pages/Index.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -71,16 +71,16 @@
     "file": "file/Register.df3ef6ff.css",
     "src": "src/panel/pages/auth/Register.css"
   },
-  "src/panel/pages/Index.css": {
-    "file": "file/Index.6c80a9fb.css",
-    "src": "src/panel/pages/Index.css"
-  },
   "src/panel/pages/auth/Login.css": {
     "file": "file/Login.5846c62d.css",
     "src": "src/panel/pages/auth/Login.css"
   },
+  "src/panel/pages/Index.css": {
+    "file": "file/Index.6c80a9fb.css",
+    "src": "src/panel/pages/Index.css"
+  },
   "index.css": {
-    "file": "file/index.aa6580df.css",
+    "file": "file/index.f38a4c7c.css",
     "src": "index.css"
   }
 }
