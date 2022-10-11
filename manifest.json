@@ -1,6 +1,6 @@
 {
   "src/assets/images/waves.svg": {
-    "file": "file/waves.1fb94697.svg",
+    "file": "file/waves.b2a3383b.svg",
     "src": "src/assets/images/waves.svg"
   },
   "src/assets/images/footer-background.jpg": {
@@ -12,7 +12,7 @@
     "src": "src/assets/images/home-banner.png"
   },
   "index.html": {
-    "file": "file/index.325f6623.js",
+    "file": "file/index.d11dbb53.js",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
@@ -21,7 +21,7 @@
       "src/panel/pages/Index.vue"
     ],
     "css": [
-      "file/index.f38a4c7c.css"
+      "file/index.35a522b9.css"
     ],
     "assets": [
       "file/home-banner.7198e6c1.png",
@@ -29,58 +29,58 @@
     ]
   },
   "src/panel/pages/auth/Login.vue": {
-    "file": "file/Login.cf45ec36.js",
+    "file": "file/Login.e4b3c476.js",
     "src": "src/panel/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html"
     ],
     "css": [
-      "file/Login.5846c62d.css"
+      "file/Login.08e00f24.css"
     ],
     "assets": [
-      "file/waves.1fb94697.svg"
+      "file/waves.b2a3383b.svg"
     ]
   },
   "src/panel/pages/auth/Register.vue": {
-    "file": "file/Register.d133ae49.js",
+    "file": "file/Register.2f230a89.js",
     "src": "src/panel/pages/auth/Register.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html"
     ],
     "css": [
-      "file/Register.df3ef6ff.css"
+      "file/Register.37abac0e.css"
     ],
     "assets": [
-      "file/waves.1fb94697.svg"
+      "file/waves.b2a3383b.svg"
     ]
   },
   "src/panel/pages/Index.vue": {
-    "file": "file/Index.a2bf3981.js",
+    "file": "file/Index.4b0033b8.js",
     "src": "src/panel/pages/Index.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html"
     ],
     "css": [
-      "file/Index.6c80a9fb.css"
+      "file/Index.746dbfd6.css"
     ]
   },
-  "src/panel/pages/auth/Login.css": {
-    "file": "file/Login.5846c62d.css",
-    "src": "src/panel/pages/auth/Login.css"
-  },
   "src/panel/pages/auth/Register.css": {
-    "file": "file/Register.df3ef6ff.css",
+    "file": "file/Register.37abac0e.css",
     "src": "src/panel/pages/auth/Register.css"
   },
+  "src/panel/pages/auth/Login.css": {
+    "file": "file/Login.08e00f24.css",
+    "src": "src/panel/pages/auth/Login.css"
+  },
   "src/panel/pages/Index.css": {
-    "file": "file/Index.6c80a9fb.css",
+    "file": "file/Index.746dbfd6.css",
     "src": "src/panel/pages/Index.css"
   },
   "index.css": {
-    "file": "file/index.f38a4c7c.css",
+    "file": "file/index.35a522b9.css",
     "src": "index.css"
   }
 }
