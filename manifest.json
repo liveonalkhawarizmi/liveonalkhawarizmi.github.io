@@ -1,7 +1,15 @@
 {
+  "src/assets/images/alkhawarizmi.svg": {
+    "file": "file/alkhawarizmi.8fec512c.svg",
+    "src": "src/assets/images/alkhawarizmi.svg"
+  },
   "src/assets/images/waves.svg": {
     "file": "file/waves.b2a3383b.svg",
     "src": "src/assets/images/waves.svg"
+  },
+  "src/assets/images/legal-stamp.png": {
+    "file": "file/legal-stamp.8be133b3.png",
+    "src": "src/assets/images/legal-stamp.png"
   },
   "src/assets/images/footer-background.jpg": {
     "file": "file/footer-background.e0c6e1fb.jpg",
@@ -11,29 +19,42 @@
     "file": "file/home-banner.7198e6c1.png",
     "src": "src/assets/images/home-banner.png"
   },
-  "index.html": {
-    "file": "file/index.d11dbb53.js",
-    "src": "index.html",
-    "isEntry": true,
+  "_main.e093d87f.js": {
+    "file": "file/main.e093d87f.js",
     "dynamicImports": [
+      "src/user/components/signature.vue",
       "src/panel/pages/auth/Login.vue",
       "src/panel/pages/auth/Register.vue",
       "src/panel/pages/Index.vue"
     ],
     "css": [
-      "file/index.35a522b9.css"
+      "file/main.6460da84.css"
     ],
     "assets": [
       "file/home-banner.7198e6c1.png",
       "file/footer-background.e0c6e1fb.jpg"
     ]
   },
+  "src/user/components/signature.vue": {
+    "file": "file/signature.f50074ee.js",
+    "src": "src/user/components/signature.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_main.e093d87f.js"
+    ],
+    "css": [
+      "file/signature.31ae83d9.css"
+    ],
+    "assets": [
+      "file/legal-stamp.8be133b3.png"
+    ]
+  },
   "src/panel/pages/auth/Login.vue": {
-    "file": "file/Login.e4b3c476.js",
+    "file": "file/Login.aa9aafa4.js",
     "src": "src/panel/pages/auth/Login.vue",
     "isDynamicEntry": true,
     "imports": [
-      "index.html"
+      "_main.e093d87f.js"
     ],
     "css": [
       "file/Login.08e00f24.css"
@@ -43,33 +64,37 @@
     ]
   },
   "src/panel/pages/auth/Register.vue": {
-    "file": "file/Register.2f230a89.js",
+    "file": "file/Register.5a6b360b.js",
     "src": "src/panel/pages/auth/Register.vue",
     "isDynamicEntry": true,
     "imports": [
-      "index.html"
+      "_main.e093d87f.js"
     ],
     "css": [
-      "file/Register.37abac0e.css"
+      "file/Register.be3e74b6.css"
     ],
     "assets": [
       "file/waves.b2a3383b.svg"
     ]
   },
   "src/panel/pages/Index.vue": {
-    "file": "file/Index.4b0033b8.js",
+    "file": "file/Index.67e39b9e.js",
     "src": "src/panel/pages/Index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "index.html"
+      "_main.e093d87f.js"
     ],
     "css": [
       "file/Index.746dbfd6.css"
     ]
   },
   "src/panel/pages/auth/Register.css": {
-    "file": "file/Register.37abac0e.css",
+    "file": "file/Register.be3e74b6.css",
     "src": "src/panel/pages/auth/Register.css"
+  },
+  "src/user/components/signature.css": {
+    "file": "file/signature.31ae83d9.css",
+    "src": "src/user/components/signature.css"
   },
   "src/panel/pages/auth/Login.css": {
     "file": "file/Login.08e00f24.css",
@@ -79,8 +104,8 @@
     "file": "file/Index.746dbfd6.css",
     "src": "src/panel/pages/Index.css"
   },
-  "index.css": {
-    "file": "file/index.35a522b9.css",
-    "src": "index.css"
+  "main.css": {
+    "file": "file/main.6460da84.css",
+    "src": "main.css"
   }
 }
