@@ -11,13 +11,13 @@
     "file": "file/legal-stamp.8be133b3.png",
     "src": "src/assets/images/legal-stamp.png"
   },
-  "src/assets/images/footer-background.jpg": {
-    "file": "file/footer-background.e0c6e1fb.jpg",
-    "src": "src/assets/images/footer-background.jpg"
-  },
   "src/assets/images/home-banner.png": {
     "file": "file/home-banner.7198e6c1.png",
     "src": "src/assets/images/home-banner.png"
+  },
+  "src/assets/images/footer-background.jpg": {
+    "file": "file/footer-background.e0c6e1fb.jpg",
+    "src": "src/assets/images/footer-background.jpg"
   },
   "_main.e093d87f.js": {
     "file": "file/main.e093d87f.js",
@@ -92,13 +92,13 @@
     "file": "file/Register.be3e74b6.css",
     "src": "src/panel/pages/auth/Register.css"
   },
-  "src/user/components/signature.css": {
-    "file": "file/signature.31ae83d9.css",
-    "src": "src/user/components/signature.css"
-  },
   "src/panel/pages/auth/Login.css": {
     "file": "file/Login.08e00f24.css",
     "src": "src/panel/pages/auth/Login.css"
+  },
+  "src/user/components/signature.css": {
+    "file": "file/signature.31ae83d9.css",
+    "src": "src/user/components/signature.css"
   },
   "src/panel/pages/Index.css": {
     "file": "file/Index.746dbfd6.css",
